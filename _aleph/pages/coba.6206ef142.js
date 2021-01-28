@@ -1,0 +1,1 @@
+import React from"../-/esm.sh/react.js";export default function Coba(){return React.createElement("div",{className:"page"},"coba")}

@@ -1,0 +1,1 @@
+import React from"../-/esm.sh/react.js";export default function Logo({width:t=75}){return React.createElement("img",{src:"/logo.svg",width:t,title:"Aleph.js"})}
